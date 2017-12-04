@@ -1,2 +1,2 @@
-# format-free-journals
-List of format-free Journals
+# List of format-free journals
+List of life science and biomedical journals that accept format-free initial submissions
